@@ -1,3 +1,4 @@
 # Course-Registration-System
-Systems Proggraming Project
+Systems Programming Project
+
 Communication Project based on Thread Per Client and Reactor servers - C++ and Java
